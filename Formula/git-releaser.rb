@@ -6,6 +6,6 @@ class GitReleaser < Formula
     version "0.1.0"
 
     def install
-      bin.install "releaser"
+      bin.install "git-releaser"
     end
   end
